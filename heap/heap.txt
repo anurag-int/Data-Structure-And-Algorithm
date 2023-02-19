@@ -1,0 +1,18 @@
+// Q1. what is heap data structure ?
+// Ans - heap is a Complete Binary Tree that comes with a heap order property.
+
+// Q2. what is Complete Binary  Tree ?
+// Ans - i. every level is completely filled except the last level.
+//       ii. nodes always added from the left for every level of the tree.
+
+
+// heap follow two properties that are :
+// i. Max Heap and ii. is Min. Heap.
+
+// Min heap  - (Highest priority item is assigned lowest value.)
+   Max heap - (Highest priority item is assigned Highest value.)
+
+// applications of heap
+// Heap Sort , Used to implement Priority Queue.
+
+
